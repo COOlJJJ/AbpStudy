@@ -1,0 +1,2 @@
+﻿看了B站wosPerry的视频写的一写Abp理解的Demo
+有一个服务通信的Demo没写

@@ -1,0 +1,12 @@
+D:\MyDemo\AbpStudy\wosperry\AbpModuleDemo.Application.Contracts\bin\Debug\net6.0\AbpModuleDemo.Application.Contracts.deps.json
+D:\MyDemo\AbpStudy\wosperry\AbpModuleDemo.Application.Contracts\bin\Debug\net6.0\AbpModuleDemo.Application.Contracts.dll
+D:\MyDemo\AbpStudy\wosperry\AbpModuleDemo.Application.Contracts\bin\Debug\net6.0\AbpModuleDemo.Application.Contracts.pdb
+D:\MyDemo\AbpStudy\wosperry\AbpModuleDemo.Application.Contracts\obj\Debug\net6.0\AbpModuleDemo.Application.Contracts.csproj.AssemblyReference.cache
+D:\MyDemo\AbpStudy\wosperry\AbpModuleDemo.Application.Contracts\obj\Debug\net6.0\AbpModuleDemo.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyDemo\AbpStudy\wosperry\AbpModuleDemo.Application.Contracts\obj\Debug\net6.0\AbpModuleDemo.Application.Contracts.AssemblyInfoInputs.cache
+D:\MyDemo\AbpStudy\wosperry\AbpModuleDemo.Application.Contracts\obj\Debug\net6.0\AbpModuleDemo.Application.Contracts.AssemblyInfo.cs
+D:\MyDemo\AbpStudy\wosperry\AbpModuleDemo.Application.Contracts\obj\Debug\net6.0\AbpModuleDemo.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\MyDemo\AbpStudy\wosperry\AbpModuleDemo.Application.Contracts\obj\Debug\net6.0\AbpModuleDemo.Application.Contracts.dll
+D:\MyDemo\AbpStudy\wosperry\AbpModuleDemo.Application.Contracts\obj\Debug\net6.0\refint\AbpModuleDemo.Application.Contracts.dll
+D:\MyDemo\AbpStudy\wosperry\AbpModuleDemo.Application.Contracts\obj\Debug\net6.0\AbpModuleDemo.Application.Contracts.pdb
+D:\MyDemo\AbpStudy\wosperry\AbpModuleDemo.Application.Contracts\obj\Debug\net6.0\ref\AbpModuleDemo.Application.Contracts.dll
