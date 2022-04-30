@@ -5307,11 +5307,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyDemo\\AbpStudy\\wosperry\\AbpModuleDemo.Application\\AbpModuleDemo.Application.csproj",
+      "projectUniqueName": "D:\\MyDemo\\AbpStudy\\AbpModuleDemo.Application\\AbpModuleDemo.Application.csproj",
       "projectName": "AbpModuleDemo.Application",
-      "projectPath": "D:\\MyDemo\\AbpStudy\\wosperry\\AbpModuleDemo.Application\\AbpModuleDemo.Application.csproj",
+      "projectPath": "D:\\MyDemo\\AbpStudy\\AbpModuleDemo.Application\\AbpModuleDemo.Application.csproj",
       "packagesPath": "C:\\Users\\Z0047YMR\\.nuget\\packages\\",
-      "outputPath": "D:\\MyDemo\\AbpStudy\\wosperry\\AbpModuleDemo.Application\\obj\\",
+      "outputPath": "D:\\MyDemo\\AbpStudy\\AbpModuleDemo.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Z0047YMR\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5327,8 +5327,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\MyDemo\\AbpStudy\\wosperry\\AbpModuleDemo.Application.Contracts\\AbpModuleDemo.Application.Contracts.csproj": {
-              "projectPath": "D:\\MyDemo\\AbpStudy\\wosperry\\AbpModuleDemo.Application.Contracts\\AbpModuleDemo.Application.Contracts.csproj"
+            "D:\\MyDemo\\AbpStudy\\AbpModuleDemo.Application.Contracts\\AbpModuleDemo.Application.Contracts.csproj": {
+              "projectPath": "D:\\MyDemo\\AbpStudy\\AbpModuleDemo.Application.Contracts\\AbpModuleDemo.Application.Contracts.csproj"
             }
           }
         }

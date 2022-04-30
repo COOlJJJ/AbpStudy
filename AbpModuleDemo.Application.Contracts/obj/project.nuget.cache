@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "paMF/2emisHeQ1STODwRwjfCQmL6CLxhpYtz1p8QJU+2FpiBrkZq/5Uvoo11MYcWc0Kec+A1MYdVX4alomq8fw==",
+  "dgSpecHash": "RV7UtOI4BkHSsTIxe9ZLH4M4+b/crKxo5MYn338G6RnURGoiNv1maVyne7PZNvrZ+lVmVDoywhYQvlMXldK8Dw==",
   "success": true,
-  "projectFilePath": "D:\\MyDemo\\AbpStudy\\wosperry\\AbpModuleDemo.Application.Contracts\\AbpModuleDemo.Application.Contracts.csproj",
+  "projectFilePath": "D:\\MyDemo\\AbpStudy\\AbpModuleDemo.Application.Contracts\\AbpModuleDemo.Application.Contracts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Z0047YMR\\.nuget\\packages\\jetbrains.annotations\\2021.2.0\\jetbrains.annotations.2021.2.0.nupkg.sha512",
     "C:\\Users\\Z0047YMR\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.0\\microsoft.aspnetcore.authorization.6.0.0.nupkg.sha512",

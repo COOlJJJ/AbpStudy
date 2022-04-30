@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SvfNA4H3E3EEy2qqz+iK2lltRkWUz1shKWmzh3qAgEQ=",
+  "Source": "Acme.BookStore",
+  "BasePath": "_content/Acme.BookStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

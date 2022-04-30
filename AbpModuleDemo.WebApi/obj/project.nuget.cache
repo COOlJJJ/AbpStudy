@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QDMHvv7G7u3byICJ6gyd09HlTC/g0mDiGe9LTlk2BKRuYxN6hvfOtee6joDG/nE9fkpv/mSl1hzkQPqheMnMnw==",
+  "dgSpecHash": "muVguVoDJbQ3IWfjOeqcPr3LMGJcg0EnQhhtwyv/R7//GsO+GSUujgkD1rmqKy0CPKTvimsl9XyIbVwZleZwwA==",
   "success": true,
-  "projectFilePath": "D:\\MyDemo\\AbpStudy\\wosperry\\AbpModuleDemo.WebApi\\AbpModuleDemo.WebApi.csproj",
+  "projectFilePath": "D:\\MyDemo\\AbpStudy\\AbpModuleDemo.WebApi\\AbpModuleDemo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Z0047YMR\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
     "C:\\Users\\Z0047YMR\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",

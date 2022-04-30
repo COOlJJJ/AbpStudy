@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MyDemo\\AbpStudy\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj": {}
+  },
+  "projects": {
+    "D:\\MyDemo\\AbpStudy\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyDemo\\AbpStudy\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj",
+        "projectName": "Acme.BookStore.Application.Contracts",
+        "projectPath": "D:\\MyDemo\\AbpStudy\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Z0047YMR\\.nuget\\packages\\",
+        "outputPath": "D:\\MyDemo\\AbpStudy\\Acme.BookStore.Application.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Z0047YMR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\MyDemo\\AbpStudy\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj": {
+                "projectPath": "D:\\MyDemo\\AbpStudy\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Volo.Abp.Ddd.Application.Contracts": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyDemo\\AbpStudy\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyDemo\\AbpStudy\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj",
+        "projectName": "Acme.BookStore.Domain.Shared",
+        "projectPath": "D:\\MyDemo\\AbpStudy\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj",
+        "packagesPath": "C:\\Users\\Z0047YMR\\.nuget\\packages\\",
+        "outputPath": "D:\\MyDemo\\AbpStudy\\Acme.BookStore.Domain.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Z0047YMR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Volo.Abp.Core": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

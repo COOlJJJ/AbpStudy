@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyDemo\\AbpStudy\\wosperry\\AbpModuleDemo.Application.Contracts\\AbpModuleDemo.Application.Contracts.csproj": {}
+    "D:\\MyDemo\\AbpStudy\\AbpModuleDemo.Application.Contracts\\AbpModuleDemo.Application.Contracts.csproj": {}
   },
   "projects": {
-    "D:\\MyDemo\\AbpStudy\\wosperry\\AbpModuleDemo.Application.Contracts\\AbpModuleDemo.Application.Contracts.csproj": {
+    "D:\\MyDemo\\AbpStudy\\AbpModuleDemo.Application.Contracts\\AbpModuleDemo.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyDemo\\AbpStudy\\wosperry\\AbpModuleDemo.Application.Contracts\\AbpModuleDemo.Application.Contracts.csproj",
+        "projectUniqueName": "D:\\MyDemo\\AbpStudy\\AbpModuleDemo.Application.Contracts\\AbpModuleDemo.Application.Contracts.csproj",
         "projectName": "AbpModuleDemo.Application.Contracts",
-        "projectPath": "D:\\MyDemo\\AbpStudy\\wosperry\\AbpModuleDemo.Application.Contracts\\AbpModuleDemo.Application.Contracts.csproj",
+        "projectPath": "D:\\MyDemo\\AbpStudy\\AbpModuleDemo.Application.Contracts\\AbpModuleDemo.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\Z0047YMR\\.nuget\\packages\\",
-        "outputPath": "D:\\MyDemo\\AbpStudy\\wosperry\\AbpModuleDemo.Application.Contracts\\obj\\",
+        "outputPath": "D:\\MyDemo\\AbpStudy\\AbpModuleDemo.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Z0047YMR\\AppData\\Roaming\\NuGet\\NuGet.Config",
