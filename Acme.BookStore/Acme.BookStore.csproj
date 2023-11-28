@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="C:\Users\chen16\.nuget\packages\volo.abp.aspnetcore.mvc\7.4.2\contentFiles\any\net7.0\Volo.Abp.AspNetCore.Mvc.abppkg.analyze.json" />
+    <Content Remove="C:\Users\chen16\.nuget\packages\volo.abp.aspnetcore.mvc\7.4.2\contentFiles\any\net7.0\Volo.Abp.AspNetCore.Mvc.abppkg.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="Volo.Abp.AspNetCore.Mvc" Version="7.4.2" />
+    <PackageReference Include="Volo.Abp.Autofac" Version="7.4.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Acme.BookStore.Application\Acme.BookStore.Application.csproj" />
+    <ProjectReference Include="..\Acme.BookStore.EntityFrameworkCore.DbMigrations\Acme.BookStore.EntityFrameworkCore.DbMigrations.csproj" />
+    <ProjectReference Include="..\Acme.BookStore.HttpApi\Acme.BookStore.HttpApi.csproj" />
+  </ItemGroup>
+
+</Project>

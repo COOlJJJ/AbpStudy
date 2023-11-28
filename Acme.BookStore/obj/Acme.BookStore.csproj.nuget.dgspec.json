@@ -1,0 +1,590 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Demos\\AbpStudy\\Acme.BookStore\\Acme.BookStore.csproj": {}
+  },
+  "projects": {
+    "D:\\Demos\\AbpStudy\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Demos\\AbpStudy\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj",
+        "projectName": "Acme.BookStore.Application.Contracts",
+        "projectPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\chen16\\.nuget\\packages\\",
+        "outputPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.Application.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chen16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Demos\\AbpStudy\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj": {
+                "projectPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Volo.Abp.Ddd.Application.Contracts": {
+              "target": "Package",
+              "version": "[7.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Demos\\AbpStudy\\Acme.BookStore.Application\\Acme.BookStore.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Demos\\AbpStudy\\Acme.BookStore.Application\\Acme.BookStore.Application.csproj",
+        "projectName": "Acme.BookStore.Application",
+        "projectPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.Application\\Acme.BookStore.Application.csproj",
+        "packagesPath": "C:\\Users\\chen16\\.nuget\\packages\\",
+        "outputPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chen16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Demos\\AbpStudy\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj": {
+                "projectPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj"
+              },
+              "D:\\Demos\\AbpStudy\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj": {
+                "projectPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Volo.Abp.AutoMapper": {
+              "target": "Package",
+              "version": "[7.4.2, )"
+            },
+            "Volo.Abp.Ddd.Application": {
+              "target": "Package",
+              "version": "[7.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Demos\\AbpStudy\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Demos\\AbpStudy\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj",
+        "projectName": "Acme.BookStore.Domain.Shared",
+        "projectPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj",
+        "packagesPath": "C:\\Users\\chen16\\.nuget\\packages\\",
+        "outputPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.Domain.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chen16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Volo.Abp.Core": {
+              "target": "Package",
+              "version": "[7.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Demos\\AbpStudy\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Demos\\AbpStudy\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj",
+        "projectName": "Acme.BookStore.Domain",
+        "projectPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\chen16\\.nuget\\packages\\",
+        "outputPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chen16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Demos\\AbpStudy\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj": {
+                "projectPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Volo.Abp.Ddd.Domain": {
+              "target": "Package",
+              "version": "[7.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Demos\\AbpStudy\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\Acme.BookStore.EntityFrameworkCore.DbMigrations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Demos\\AbpStudy\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\Acme.BookStore.EntityFrameworkCore.DbMigrations.csproj",
+        "projectName": "Acme.BookStore.EntityFrameworkCore.DbMigrations",
+        "projectPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\Acme.BookStore.EntityFrameworkCore.DbMigrations.csproj",
+        "packagesPath": "C:\\Users\\chen16\\.nuget\\packages\\",
+        "outputPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chen16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Demos\\AbpStudy\\Acme.BookStore.EntityFrameworkCore\\Acme.BookStore.EntityFrameworkCore.csproj": {
+                "projectPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.EntityFrameworkCore\\Acme.BookStore.EntityFrameworkCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Demos\\AbpStudy\\Acme.BookStore.EntityFrameworkCore\\Acme.BookStore.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Demos\\AbpStudy\\Acme.BookStore.EntityFrameworkCore\\Acme.BookStore.EntityFrameworkCore.csproj",
+        "projectName": "Acme.BookStore.EntityFrameworkCore",
+        "projectPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.EntityFrameworkCore\\Acme.BookStore.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\chen16\\.nuget\\packages\\",
+        "outputPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chen16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Demos\\AbpStudy\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj": {
+                "projectPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Volo.Abp.EntityFrameworkCore.MySQL": {
+              "target": "Package",
+              "version": "[7.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Demos\\AbpStudy\\Acme.BookStore.HttpApi\\Acme.BookStore.HttpApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Demos\\AbpStudy\\Acme.BookStore.HttpApi\\Acme.BookStore.HttpApi.csproj",
+        "projectName": "Acme.BookStore.HttpApi",
+        "projectPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.HttpApi\\Acme.BookStore.HttpApi.csproj",
+        "packagesPath": "C:\\Users\\chen16\\.nuget\\packages\\",
+        "outputPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.HttpApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chen16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Demos\\AbpStudy\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj": {
+                "projectPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Volo.Abp.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[7.4.2, )"
+            },
+            "Volo.Abp.Core": {
+              "target": "Package",
+              "version": "[7.4.2, )"
+            },
+            "Volo.Abp.Localization": {
+              "target": "Package",
+              "version": "[7.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Demos\\AbpStudy\\Acme.BookStore\\Acme.BookStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Demos\\AbpStudy\\Acme.BookStore\\Acme.BookStore.csproj",
+        "projectName": "Acme.BookStore",
+        "projectPath": "D:\\Demos\\AbpStudy\\Acme.BookStore\\Acme.BookStore.csproj",
+        "packagesPath": "C:\\Users\\chen16\\.nuget\\packages\\",
+        "outputPath": "D:\\Demos\\AbpStudy\\Acme.BookStore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chen16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Demos\\AbpStudy\\Acme.BookStore.Application\\Acme.BookStore.Application.csproj": {
+                "projectPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.Application\\Acme.BookStore.Application.csproj"
+              },
+              "D:\\Demos\\AbpStudy\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\Acme.BookStore.EntityFrameworkCore.DbMigrations.csproj": {
+                "projectPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\Acme.BookStore.EntityFrameworkCore.DbMigrations.csproj"
+              },
+              "D:\\Demos\\AbpStudy\\Acme.BookStore.HttpApi\\Acme.BookStore.HttpApi.csproj": {
+                "projectPath": "D:\\Demos\\AbpStudy\\Acme.BookStore.HttpApi\\Acme.BookStore.HttpApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Volo.Abp.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[7.4.2, )"
+            },
+            "Volo.Abp.Autofac": {
+              "target": "Package",
+              "version": "[7.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

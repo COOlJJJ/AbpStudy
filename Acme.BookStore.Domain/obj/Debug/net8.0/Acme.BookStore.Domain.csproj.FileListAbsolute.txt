@@ -1,0 +1,16 @@
+D:\Demos\AbpStudy\Acme.BookStore.Domain\bin\Debug\net8.0\Acme.BookStore.Domain.deps.json
+D:\Demos\AbpStudy\Acme.BookStore.Domain\bin\Debug\net8.0\Acme.BookStore.Domain.dll
+D:\Demos\AbpStudy\Acme.BookStore.Domain\bin\Debug\net8.0\Acme.BookStore.Domain.pdb
+D:\Demos\AbpStudy\Acme.BookStore.Domain\bin\Debug\net8.0\Acme.BookStore.Domain.Shared.dll
+D:\Demos\AbpStudy\Acme.BookStore.Domain\bin\Debug\net8.0\Acme.BookStore.Domain.Shared.pdb
+D:\Demos\AbpStudy\Acme.BookStore.Domain\obj\Debug\net8.0\Acme.BookStore.Domain.csproj.AssemblyReference.cache
+D:\Demos\AbpStudy\Acme.BookStore.Domain\obj\Debug\net8.0\Acme.BookStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demos\AbpStudy\Acme.BookStore.Domain\obj\Debug\net8.0\Acme.BookStore.Domain.AssemblyInfoInputs.cache
+D:\Demos\AbpStudy\Acme.BookStore.Domain\obj\Debug\net8.0\Acme.BookStore.Domain.AssemblyInfo.cs
+D:\Demos\AbpStudy\Acme.BookStore.Domain\obj\Debug\net8.0\Acme.BookStore.Domain.csproj.CoreCompileInputs.cache
+D:\Demos\AbpStudy\Acme.BookStore.Domain\obj\Debug\net8.0\Acme.BookStore.Domain.sourcelink.json
+D:\Demos\AbpStudy\Acme.BookStore.Domain\obj\Debug\net8.0\Acme.BookStore.Domain.csproj.CopyComplete
+D:\Demos\AbpStudy\Acme.BookStore.Domain\obj\Debug\net8.0\Acme.BookStore.Domain.dll
+D:\Demos\AbpStudy\Acme.BookStore.Domain\obj\Debug\net8.0\refint\Acme.BookStore.Domain.dll
+D:\Demos\AbpStudy\Acme.BookStore.Domain\obj\Debug\net8.0\Acme.BookStore.Domain.pdb
+D:\Demos\AbpStudy\Acme.BookStore.Domain\obj\Debug\net8.0\ref\Acme.BookStore.Domain.dll

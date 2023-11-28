@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Acme.BookStore.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jwnlHqjr/onqbqgNHh6txfCrxmwT7xN5Sy37kGkLlg0=",
+  "Source": "AbpModuleDemo.WebApi",
+  "BasePath": "_content/AbpModuleDemo.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
